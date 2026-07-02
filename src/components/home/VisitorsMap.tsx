@@ -43,11 +43,11 @@ export default function VisitorsMap({ title = 'Global Visitors Map', scriptSrc, 
             transition={{ duration: 0.6, delay: 0.55 }}
         >
             <h2 className="text-2xl font-serif font-bold text-primary mb-4">{title}</h2>
-            <div className="overflow-hidden">
+            <div className="mx-auto w-full max-w-sm overflow-hidden [&_canvas]:max-w-full [&_iframe]:max-w-full [&_img]:h-auto [&_img]:max-w-full">
                 <div ref={containerRef} />
                 {showFallback && (
                     <a href={imageHref} title="Visit tracker" target="_blank" rel="noopener noreferrer">
-                        <img src={imageSrc} alt="Global visitors map" className="max-w-full h-auto" />
+                        <img src={imageSrc} alt="Global visitors map" className="h-auto max-w-full" />
                     </a>
                 )}
             </div>
