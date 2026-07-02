@@ -3,25 +3,43 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "HKUST Postgraduate Studentship"
+subtitle = "Hong Kong University of Science and Technology"
+date = "2024 - 2028"
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "HKUST Fujian Hailian Postgraduate Scholarship"
+subtitle = "Hong Kong University of Science and Technology"
+date = "2024 - 2026"
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "Nankai University"
+date = "2021 - 2022"
+content = "Ranked 3/146 in the sophomore year."
+
+[[items]]
+title = "Nankai University Gongneng Scholarship"
+subtitle = "Nankai University"
+date = "2022 - 2023"
+content = "Ranked 7/152 in the junior year."
+
+[[items]]
+title = "Nankai University-Huawei \"Smart Base\" Scholarship"
+subtitle = "Huawei / Nankai University"
 date = "2023"
-content = "Description of the award."
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Fujian Outstanding Student Talent Program"
+subtitle = "Fujian Province"
+date = "2021"
+content = ""
+
+[[items]]
+title = "Nankai University Social Public Welfare Award"
+subtitle = "Nankai University"
+date = "2020 - 2021"
+content = ""

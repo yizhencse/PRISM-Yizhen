@@ -3,25 +3,43 @@ title = "奖项"
 description = "我获得的荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2025"
-content = "奖项说明。"
+title = "香港科技大学研究生奖学金"
+subtitle = "香港科技大学"
+date = "2024 - 2028"
+content = ""
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
+title = "香港科技大学福建海聯研究生奖学金"
+subtitle = "香港科技大学"
+date = "2024 - 2026"
+content = ""
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "国家奖学金"
+subtitle = "南开大学"
+date = "2021 - 2022"
+content = "大二年级排名 3/146。"
+
+[[items]]
+title = "南开大学公能奖学金"
+subtitle = "南开大学"
+date = "2022 - 2023"
+content = "大三年级排名 7/152。"
+
+[[items]]
+title = "南开大学-华为“智能基座”产教融合协同育人基地奖学金"
+subtitle = "华为 / 南开大学"
 date = "2023"
-content = "奖项说明。"
+content = ""
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "福建省优秀学子人才项目"
+subtitle = "福建省"
+date = "2021"
+content = ""
+
+[[items]]
+title = "南开大学社会公益奖"
+subtitle = "南开大学"
+date = "2020 - 2021"
+content = ""

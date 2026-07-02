@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "AI for Healthcare",
+  "Smart Sensing",
+  "Mobile Sensing"
 ]
 
 [[sections]]
@@ -13,6 +13,18 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
+
+[[sections]]
+id = "appointment_education"
+type = "markdown"
+source = "appointment_education.md"
+title = "🎓 Appointment & Education"
+
+[[sections]]
+id = "selected_honors"
+type = "markdown"
+source = "selected_honors.md"
+title = "🏅 Selected Honors"
 
 [[sections]]
 id = "featured_publications"
@@ -26,4 +38,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

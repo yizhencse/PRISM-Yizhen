@@ -1,0 +1,3 @@
+- **2024 Sep. - Now** - Ph.D. Student in CSE, HKUST
+- **2023 Sep. - 2023 Dec.** - Exchange Student, Hong Kong Baptist University
+- **2020 Sep. - 2024 Jul.** - B.Eng. in Software Engineering, Nankai University

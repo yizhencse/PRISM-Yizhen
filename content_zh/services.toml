@@ -1,9 +1,10 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "服务"
+description = "社区服务与相关活动。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "社会公益服务"
+subtitle = "南开大学"
+date = "2020 - 2021"
+content = "获南开大学社会公益奖。"
+tags = ["社区服务"]

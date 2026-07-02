@@ -1,33 +1,33 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
-favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+title = "Yizhen Zhang"
+description = "Ph.D. student in Computer Science and Engineering at HKUST."
+favicon = "/graduate-hat.png"
+last_updated = "July 2, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+name = "Yizhen Zhang"
+title = "Ph.D. Student"
+institution = "HKUST CSE"
+avatar = "/bio.png"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "yzhangtf@connect.ust.hk"
+location = "Hong Kong SAR"
+location_url = "https://maps.google.com/?q=Hong+Kong+University+of+Science+and+Technology"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Department of Computer Science and Engineering,",
+  "Hong Kong University of Science and Technology"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=ZA3B-qcAAAAJ&hl=en&inst=1381320739207392350"
+orcid = "https://orcid.org/0009-0005-7530-9621"
+github = "https://github.com/yizhencse"
+linkedin = ""
 
 [features]
 # Show a like button on the about page
-enable_likes = true
+enable_likes = false
 
 # Display all subpages on a single page
 enable_one_page_mode = false

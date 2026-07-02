@@ -261,6 +261,26 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {messages.publications.code}
                                             </a>
                                         )}
+                                        {pub.url && (
+                                            <a
+                                                href={pub.url}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                {messages.publications.link}
+                                            </a>
+                                        )}
+                                        {pub.pdfUrl && (
+                                            <a
+                                                href={pub.pdfUrl}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                {messages.publications.pdf}
+                                            </a>
+                                        )}
                                         {pub.abstract && (
                                             <button
                                                 onClick={() => setExpandedAbstractId(expandedAbstractId === pub.id ? null : pub.id)}

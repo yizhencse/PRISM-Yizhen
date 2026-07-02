@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/) (CSE, HKUST), under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I earned my Bachelor's degree in Software Engineering from Nankai University in 2024.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests include AI for healthcare, smart sensing, mobile sensing, and human-computer interaction.

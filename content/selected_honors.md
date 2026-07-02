@@ -1,0 +1,2 @@
+- HKUST Postgraduate Studentship, 2024-2028
+- National Scholarship, 2021-2022

@@ -1,26 +1,35 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Hong Kong University of Science and Technology**, Postgraduate Student, *2024/09 - Present*
+- Department of Computer Science and Engineering
+- Research focus: AI for Healthcare, Smart Sensing
+- Supervisor: Prof. Qian Zhang
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**Hong Kong Baptist University**, Exchange Student, *2023/09 - 2023/12*
 
-## Experience
+**Nankai University**, Undergraduate Student, *2020/09 - 2024/07*
+- B.Eng. in Software Engineering
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+## Internship
 
-## Skills
+**Research Intern**
+[AIOps@NKU Lab](https://nkcs.iops.ai/)
+*2022/03 - 2023/10*
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+**Research Assistant**
+[APEX Lab](https://www.mingmingfan.com/lab/zh/people/) at HKUST(GZ)
+*2023/12 - 2024/06*
+
+**Algorithm Intern**
+[DataCloak Co.](https://www.datacloak.com/), Beijing Branch
+*2023/04 - 2023/07*
 
 ## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **HKUST Postgraduate Studentship** - Hong Kong University of Science and Technology (*2024 - 2028*)
+- **HKUST Fujian Hailian Postgraduate Scholarship** - Hong Kong University of Science and Technology (*2024 - 2026*)
+- **National Scholarship** - Nankai University (*2021 - 2022; ranked 3/146*)
+- **Nankai University Gongneng Scholarship** - Nankai University (*2022 - 2023; ranked 7/152*)
+- **Nankai University-Huawei "Smart Base" Scholarship** - Huawei / Nankai University (*2023*)
+- **Fujian Outstanding Student Talent Program** - Fujian Province (*2021*)
+- **Nankai University Social Public Welfare Award** - Nankai University (*2020 - 2021*)

@@ -1,9 +1,10 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+description = "Community involvement and service-related activities."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Social Public Welfare Service"
+subtitle = "Nankai University"
+date = "2020 - 2021"
+content = "Recognized by the Nankai University Social Public Welfare Award."
+tags = ["Community Service"]

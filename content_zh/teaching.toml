@@ -1,10 +1,17 @@
 type = "card"
 title = "教学"
-description = "我曾参与授课或助教的课程。"
+description = "我曾担任助教的课程。"
 
 [[items]]
-title = "示例课程"
+title = "COMP 2012：面向对象编程与数据结构"
 subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+date = "2025 春季"
+content = "香港科技大学。"
+tags = ["本科生", "计算机科学", "助教"]
+
+[[items]]
+title = "COMP 2011：C++ 程序设计"
+subtitle = "助教"
+date = "2025 秋季"
+content = "香港科技大学。"
+tags = ["本科生", "计算机科学", "助教"]

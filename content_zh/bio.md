@@ -1,5 +1,5 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+Yizhen Zhang 目前是 [香港科技大学计算机科学与工程系](https://cse.hkust.edu.hk/)（CSE, HKUST）博士生，导师是 [Qian Zhang 教授](https://www.cse.ust.hk/~qianzh/)。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
+她于 2024 年在南开大学软件工程专业获得学士学位。
 
-我的研究主要关注自然哲学中的数学原理。
+她的研究兴趣包括 AI for Healthcare、智能感知、移动感知和人机交互。

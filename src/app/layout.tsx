@@ -36,6 +36,13 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
+function getFaviconType(favicon: string): string {
+  if (favicon.endsWith('.png')) return 'image/png';
+  if (favicon.endsWith('.ico')) return 'image/x-icon';
+  if (favicon.endsWith('.svg')) return 'image/svg+xml';
+  return 'image/png';
+}
+
 function buildLocaleBootstrapScript(config: ReturnType<typeof getRuntimeI18nConfig>): string {
   const serializedConfig = JSON.stringify(config).replace(/</g, '\\u003c');
 
@@ -131,7 +138,7 @@ export default function RootLayout({
   return (
     <html lang={runtimeI18n.defaultLocale} className="scroll-smooth" suppressHydrationWarning>
       <head>
-        <link rel="icon" href={config.site.favicon} type="image/svg+xml" />
+        <link rel="icon" href={config.site.favicon} type={getFaviconType(config.site.favicon)} />
         <link rel="dns-prefetch" href="https://jialeliu.com" />
         <link rel="preconnect" href="https://jialeliu.com" crossOrigin="" />
         <link

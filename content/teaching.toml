@@ -1,10 +1,17 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Courses I have assisted with as a teaching assistant."
 
 [[items]]
-title = "Example Course"
+title = "COMP 2012: Object-Oriented Programming and Data Structures"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+date = "Spring 2025"
+content = "Hong Kong University of Science and Technology."
+tags = ["Undergraduate", "Computer Science", "Teaching Assistant"]
+
+[[items]]
+title = "COMP 2011: Programming with C++"
+subtitle = "Teaching Assistant"
+date = "Fall 2025"
+content = "Hong Kong University of Science and Technology."
+tags = ["Undergraduate", "Computer Science", "Teaching Assistant"]

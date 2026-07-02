@@ -3,9 +3,9 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "AI for Healthcare",
+  "智能感知",
+  "移动感知"
 ]
 
 [[sections]]
@@ -13,6 +13,18 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "关于我"
+
+[[sections]]
+id = "appointment_education"
+type = "markdown"
+source = "appointment_education.md"
+title = "🎓 任职与教育经历"
+
+[[sections]]
+id = "selected_honors"
+type = "markdown"
+source = "selected_honors.md"
+title = "🏅 主要荣誉"
 
 [[sections]]
 id = "featured_publications"
