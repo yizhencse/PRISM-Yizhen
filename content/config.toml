@@ -34,7 +34,7 @@ enable_one_page_mode = false
 
 [i18n]
 enabled = true
-locales = ["zh", "en"]
+locales = ["en","zh"]
 default_locale = "en"
 # "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
 mode = "auto"
@@ -71,12 +71,6 @@ title = "Awards"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "CV"
