@@ -18,7 +18,7 @@ title = "关于我"
 id = "appointment_education"
 type = "markdown"
 source = "appointment_education.md"
-title = "🎓 任职与教育经历"
+title = "🎓 教育经历"
 
 [[sections]]
 id = "selected_honors"
