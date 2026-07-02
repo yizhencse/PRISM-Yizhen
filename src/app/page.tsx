@@ -8,9 +8,12 @@ import { getRuntimeI18nConfig } from '@/lib/i18n/config';
 
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list';
+  type: 'markdown' | 'publications' | 'list' | 'visitors_map';
   title?: string;
   source?: string;
+  script_src?: string;
+  image_href?: string;
+  image_src?: string;
   filter?: string;
   limit?: number;
   content?: string;

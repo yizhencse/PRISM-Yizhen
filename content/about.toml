@@ -38,3 +38,11 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
+
+[[sections]]
+id = "global_visitors_map"
+type = "visitors_map"
+title = "Global Visitors Map"
+script_src = "https://mapmyvisitors.com/map.js?d=JKEGA69pqRXbCgVZkoEtHWmT3HpsclcvBnnmlJAR7YM&cl=ffffff&w=a"
+image_href = "https://mapmyvisitors.com/web/1c669"
+image_src = "https://mapmyvisitors.com/map.png?d=JKEGA69pqRXbCgVZkoEtHWmT3HpsclcvBnnmlJAR7YM&cl=ffffff"

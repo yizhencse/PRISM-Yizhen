@@ -4,6 +4,7 @@ import Profile from '@/components/home/Profile';
 import About from '@/components/home/About';
 import SelectedPublications from '@/components/home/SelectedPublications';
 import News, { NewsItem } from '@/components/home/News';
+import VisitorsMap from '@/components/home/VisitorsMap';
 import PublicationsList from '@/components/publications/PublicationsList';
 import TextPage from '@/components/pages/TextPage';
 import CardPage from '@/components/pages/CardPage';
@@ -14,9 +15,12 @@ import { useLocaleStore } from '@/lib/stores/localeStore';
 
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list';
+  type: 'markdown' | 'publications' | 'list' | 'visitors_map';
   title?: string;
   source?: string;
+  script_src?: string;
+  image_href?: string;
+  image_src?: string;
   filter?: string;
   limit?: number;
   content?: string;
@@ -95,6 +99,16 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                         title={section.title}
                       />
                     );
+                  case 'visitors_map':
+                    return section.script_src && section.image_href && section.image_src ? (
+                      <VisitorsMap
+                        key={section.id}
+                        title={section.title}
+                        scriptSrc={section.script_src}
+                        imageHref={section.image_href}
+                        imageSrc={section.image_src}
+                      />
+                    ) : null;
                   default:
                     return null;
                 }
