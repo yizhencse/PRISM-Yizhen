@@ -1,4 +1,4 @@
-Yizhen Zhang 目前是 [香港科技大学计算机科学与工程系](https://cse.hkust.edu.hk/)（CSE, HKUST）博士生，导师是 [Qian Zhang 教授](https://www.cse.ust.hk/~qianzh/)。
+张怡桢目前是 [香港科技大学计算机科学与工程系](https://cse.hkust.edu.hk/)（CSE, HKUST）博士生，导师是 [Qian Zhang 教授](https://www.cse.ust.hk/~qianzh/)。
 
 她于 2024 年在南开大学软件工程专业获得学士学位。
 
