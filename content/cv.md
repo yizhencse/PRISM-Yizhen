@@ -1,6 +1,7 @@
 ## Education
 
 **Hong Kong University of Science and Technology**, Postgraduate Student, *2024/09 - Present*
+
 - Department of Computer Science and Engineering
 - Research focus: AI for Healthcare, Smart Sensing
 - Supervisor: Prof. Qian Zhang
@@ -8,6 +9,7 @@
 **Hong Kong Baptist University**, Exchange Student, *2023/09 - 2023/12*
 
 **Nankai University**, Undergraduate Student, *2020/09 - 2024/07*
+
 - B.Eng. in Software Engineering
 
 ## Internship
@@ -27,7 +29,6 @@
 ## Awards & Honors
 
 - **HKUST Postgraduate Studentship** - Hong Kong University of Science and Technology (*2024 - 2028*)
-- **HKUST Fujian Hailian Postgraduate Scholarship** - Hong Kong University of Science and Technology (*2024 - 2026*)
 - **National Scholarship** - Nankai University (*2021 - 2022; ranked 3/146*)
 - **Nankai University Gongneng Scholarship** - Nankai University (*2022 - 2023; ranked 7/152*)
 - **Nankai University-Huawei "Smart Base" Scholarship** - Huawei / Nankai University (*2023*)
