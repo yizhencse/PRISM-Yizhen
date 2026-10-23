@@ -1,0 +1,2 @@
+- **COMP2012**: Object-Oriented Programming and Data Structures (Spring 2025, Fall 2026), Teaching Assistant
+- **COMP2011**: Programming with C++ (Fall 2025), Teaching Assistant
