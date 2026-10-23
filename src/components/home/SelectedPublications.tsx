@@ -81,7 +81,7 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                         {pub.description}
                                     </p>
                                 )}
-                                {(pub.doi || pub.pdfUrl) && (
+                                {(pub.doi || pub.demo || pub.slides || pub.pdfUrl) && (
                                     <div className="mt-3 flex flex-wrap gap-2">
                                         {pub.doi && (
                                             <a
@@ -101,6 +101,26 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                                 className="inline-flex items-center rounded-md bg-neutral-100 px-3 py-1 text-xs font-medium text-neutral-700 transition-colors hover:bg-accent hover:text-white dark:bg-neutral-900 dark:text-neutral-300"
                                             >
                                                 {messages.publications.pdf}
+                                            </a>
+                                        )}
+                                        {pub.demo && (
+                                            <a
+                                                href={pub.demo}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center rounded-md bg-neutral-100 px-3 py-1 text-xs font-medium text-neutral-700 transition-colors hover:bg-accent hover:text-white dark:bg-neutral-900 dark:text-neutral-300"
+                                            >
+                                                {messages.publications.demo}
+                                            </a>
+                                        )}
+                                        {pub.slides && (
+                                            <a
+                                                href={pub.slides}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center rounded-md bg-neutral-100 px-3 py-1 text-xs font-medium text-neutral-700 transition-colors hover:bg-accent hover:text-white dark:bg-neutral-900 dark:text-neutral-300"
+                                            >
+                                                {messages.publications.slides}
                                             </a>
                                         )}
                                     </div>

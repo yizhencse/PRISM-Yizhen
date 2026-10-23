@@ -41,6 +41,8 @@ export interface LocaleMessages {
     abstract: string;
     bibtex: string;
     code: string;
+    demo: string;
+    slides: string;
     link: string;
     pdf: string;
   };
@@ -93,6 +95,8 @@ const en: LocaleMessages = {
     abstract: 'Abstract',
     bibtex: 'BibTeX',
     code: 'Code',
+    demo: 'Demo',
+    slides: 'Slides',
     link: 'Link',
     pdf: 'PDF',
   },
@@ -145,6 +149,8 @@ const zh: LocaleMessages = {
     abstract: '摘要',
     bibtex: 'BibTeX',
     code: '代码',
+    demo: '演示',
+    slides: '幻灯片',
     link: '链接',
     pdf: 'PDF',
   },

@@ -2,7 +2,7 @@
 title = "Yizhen Zhang"
 description = "Ph.D. student in Computer Science and Engineering at HKUST."
 favicon = "/graduate-hat.png"
-last_updated = "July 2, 2026"
+last_updated = "October 23, 2026"
 
 [author]
 name = "Yizhen Zhang"
@@ -59,12 +59,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
 
 [[navigation]]
 title = "Awards"

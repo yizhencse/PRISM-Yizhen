@@ -1,7 +1,7 @@
 [site]
 title = "张怡桢"
 description = "香港科技大学计算机科学与工程系博士生个人主页。"
-last_updated = "2026年7月2日"
+last_updated = "2026年10月23日"
 
 [author]
 name = "Yizhen Zhang"
@@ -26,12 +26,6 @@ title = "论文"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "教学"
-type = "page"
-target = "teaching"
-href = "/teaching"
 
 [[navigation]]
 title = "奖项"
